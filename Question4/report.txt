@@ -1,0 +1,4 @@
+John Doe (20) - Computer Science: Score = 80, Grade = A
+Jane Smith (22) - Information Technology: Score = 85, Grade = A
+Michael Johnson (19) - Software Engineering: Score = 78, Grade = B
+Emily Davis (21) - Information Systems: Score = 92, Grade = A
