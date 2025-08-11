@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\bin\Debug\net8.0\Question5.exe
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\bin\Debug\net8.0\Question5.deps.json
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\bin\Debug\net8.0\Question5.runtimeconfig.json
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\bin\Debug\net8.0\Question5.dll
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\bin\Debug\net8.0\Question5.pdb
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.AssemblyInfo.cs
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.sourcelink.json
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.dll
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\refint\Question5.dll
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.pdb
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\Question5.genruntimeconfig.cache
+C:\Users\DELL\Desktop\dcit318-assignment3-11223578\Question5\obj\Debug\net8.0\ref\Question5.dll
